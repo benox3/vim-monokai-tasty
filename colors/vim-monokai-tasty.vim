@@ -37,7 +37,7 @@ let s:darker_grey = { "cterm": 238, "gui": "#444444" }
 let s:light_charcoal = { "cterm": 238, "gui": "#292929" }
 let s:charcoal = { "cterm": 235, "gui": "#262626" }
 
-let s:danger = { "cterm": 197, "gui": "#ff005f" }
+let s:danger = { "cterm": 197, "gui": "#9d00ff" }
 let s:olive = { "cterm": 64, "gui": "#5f8700" }
 let s:dark_red = { "cterm": 88, "gui": "#870000" }
 let s:blood_red = { "cterm": 52, "gui": "#5f0000" }
